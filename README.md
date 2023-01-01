@@ -7,7 +7,7 @@
 Я посвятил этому труду три года жизни с марта-апреля 2015-го до середины 2018-го. С тех пор я лишь нахожу подтверждения своим высказываниям, иногда исправляю опечатки и изредка веду дневник.
 
 <p align="center">
-  <img src="https://github.com/PasaOpasen/RomanDisease/blob/master/Statistics/wordcloud/cloud.png" />
+  <img src="https://github.com/PasaOpasen/RomanDisease2/blob/master/Statistics/wordcloud/cloud.png" />
 </p>
 
 
