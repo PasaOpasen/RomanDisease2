@@ -22,12 +22,12 @@
 Также здесь размещён [архив наиболее информативных книг по этой тематике](https://github.com/PasaOpasen/RomanDisease/tree/master/ДЕГЕНЕРАЛОГИЯ%20И%20СВЯЗАННОЕ%20С%20НЕЙ).
 
 Быстрые **ссылки на скачивание**:
-* [Книга 0 (введение)](https://github.com/PasaOpasen/RomanDisease2/raw/master/0-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9A%D0%9D%D0%98%D0%93%D0%90%20%D0%9D%D0%9E%D0%9B%D0%AC.pdf)
-* [Книга 1 (углубление)](https://github.com/PasaOpasen/RomanDisease2/raw/master/1-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9A%D0%9D%D0%98%D0%93%D0%90%20%D0%9F%D0%95%D0%A0%D0%92%D0%90%D0%AF.pdf)
-* [Книга 2 (теория)](https://github.com/PasaOpasen/RomanDisease2/raw/master/2-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9A%D0%9D%D0%98%D0%93%D0%90%20%D0%92%D0%A2%D0%9E%D0%A0%D0%90%D0%AF.pdf)
-* [Книга 4 (художественные произведения и дневники)](https://github.com/PasaOpasen/RomanDisease2/raw/master/4-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%A7%D0%95%D0%A2%D0%92%D0%81%D0%A0%D0%A2%D0%90%D0%AF%20%D0%9A%D0%9D%D0%98%D0%93%D0%90.pdf)
-* [Книга небольших статей](https://github.com/PasaOpasen/RomanDisease2/raw/master/5--%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9A%D0%9D%D0%98%D0%93%D0%90%20%D0%9C%D0%90%D0%A2%D0%95%D0%A0%D0%98%D0%90%D0%9B%D0%9E%D0%92.pdf) и всякого мусора, который жалко удалять
-* [Книга 5 (поэма)](https://github.com/PasaOpasen/RomanDisease2/raw/master/5-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9F%D0%AF%D0%A2%D0%90%D0%AF%20%D0%9A%D0%9D%D0%98%D0%93%D0%90.pdf)
+* [Книга 0 (введение)](https://github.com/PasaOpasen/RomanDisease2/raw/main/0-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9A%D0%9D%D0%98%D0%93%D0%90%20%D0%9D%D0%9E%D0%9B%D0%AC.pdf)
+* [Книга 1 (углубление)](https://github.com/PasaOpasen/RomanDisease2/raw/main/1-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9A%D0%9D%D0%98%D0%93%D0%90%20%D0%9F%D0%95%D0%A0%D0%92%D0%90%D0%AF.pdf)
+* [Книга 2 (теория)](https://github.com/PasaOpasen/RomanDisease2/raw/main/2-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9A%D0%9D%D0%98%D0%93%D0%90%20%D0%92%D0%A2%D0%9E%D0%A0%D0%90%D0%AF.pdf)
+* [Книга 4 (художественные произведения и дневники)](https://github.com/PasaOpasen/RomanDisease2/raw/main/4-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%A7%D0%95%D0%A2%D0%92%D0%81%D0%A0%D0%A2%D0%90%D0%AF%20%D0%9A%D0%9D%D0%98%D0%93%D0%90.pdf)
+* [Книга небольших статей](https://github.com/PasaOpasen/RomanDisease2/raw/main/5--%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9A%D0%9D%D0%98%D0%93%D0%90%20%D0%9C%D0%90%D0%A2%D0%95%D0%A0%D0%98%D0%90%D0%9B%D0%9E%D0%92.pdf) и всякого мусора, который жалко удалять
+* [Книга 5 (поэма)](https://github.com/PasaOpasen/RomanDisease2/raw/main/5-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%A3%D0%B7%D0%BD%D1%8C.%20%D0%9F%D0%AF%D0%A2%D0%90%D0%AF%20%D0%9A%D0%9D%D0%98%D0%93%D0%90.pdf)
 
 
 ## Additions
